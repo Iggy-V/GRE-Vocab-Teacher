@@ -28,4 +28,5 @@ To set up the Vocabulary Teacher on your local machine, follow these steps:
 ## Other files:
 
 `flashcard_gen.py` generates a pdf file that can be used to print flashcards by printing doublesided.
+
 `populate_def.py` if you have a word list in excel with words, populates the definition column (does not work the best)
