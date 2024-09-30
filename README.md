@@ -1,4 +1,4 @@
-# Vocabulary Teacher Project
+# 🧑‍🏫 Vocabulary Teacher Project 🧑‍🏫
 
 ## Overview
 
